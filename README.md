@@ -3,11 +3,11 @@
 #COMMAND 
        
 
-    git clone https://github.com/DRAGONNKN/ipDragon.git
+    git clone https://github.com/DRAGONNKN/nkn-funtool
      
-       Cd ipDragonn
+       Cd nkn-funtool
        
-       Python3 ipDragonn.py
+       bash nkn-funtools
    
 
  
